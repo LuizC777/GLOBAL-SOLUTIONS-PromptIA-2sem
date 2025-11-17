@@ -63,6 +63,8 @@ Quero migrar da minha área atual de logística para a área de Ciência de Dado
 - Recomendar 3 a 5 habilidades novas necessárias para a área-alvo.
 - Definir um caminho de transição estruturado (aprendizado, prática, portfólio).
 
+![Image](https://github.com/user-attachments/assets/2e8f9fe2-b351-4338-bf95-78da0aaee6e1)
+
 ---
 
 # F4 — Simulação de Entrevista Backend Júnior
