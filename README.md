@@ -82,6 +82,8 @@ Quero treinar para uma entrevista para a vaga de Desenvolvedor Backend Júnior. 
 - Após cada resposta do usuário, avaliar com base em clareza, profundidade e precisão.
 - Repetir por três rodadas de interação simulada.
 
+![Image](https://github.com/user-attachments/assets/3d7ca7bd-790d-4e75-96f8-7fa32641565e)
+
 ---
 
 # Configurações Gerais do Sistema
