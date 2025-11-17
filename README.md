@@ -25,6 +25,8 @@ Meu trabalho atual é Analista de Suporte em TI. Minhas principais tarefas inclu
 - Gerar lista de habilidades críticas para redução de risco de automação.
 - Utilizar temperatura baixa para consistência e padrão analítico.
 
+![Image](https://github.com/user-attachments/assets/3ae98ceb-a15f-4090-ae55-8173f38fa912)
+
 ---
 
 # F2 — Plano de Upskilling Personalizado
