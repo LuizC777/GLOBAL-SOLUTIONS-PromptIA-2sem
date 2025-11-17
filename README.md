@@ -44,6 +44,8 @@ Estou buscando evoluir na área de Marketing Digital. Já tenho experiência com
 - Cada recomendação deve incluir: área, justificativa e um recurso sugerido.
 - Priorizar clareza estrutural e aplicabilidade prática.
 
+![Image](https://github.com/user-attachments/assets/efe17006-eca5-410f-9957-a764f97f79cf)
+
 ---
 
 # F3 — Caminho de Reskilling
