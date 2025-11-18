@@ -7,6 +7,8 @@ Cada funcionalidade (F1 a F4) é detalhada com:
 - Estrutura do user prompt esperado
 - Estratégia adotada para produzir respostas consistentes
 
+[Link do vídeo demonstrativo no YouTube]([https://www.genome.gov/](https://youtu.be/ue34ICS5oB8))
+
 ---
 
 # F1 — Análise de Perfil e Risco de Automação
